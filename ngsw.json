@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1615052824056,
-  "index": "leeroya.github.io/app-new/index.html",
+  "timestamp": 1615053091877,
+  "index": "/app-new/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "leeroya.github.io/app-new/favicon.ico",
-        "leeroya.github.io/app-new/index.html",
-        "leeroya.github.io/app-new/main.d348b660f2785d7d7457.js",
-        "leeroya.github.io/app-new/manifest.webmanifest",
-        "leeroya.github.io/app-new/polyfills.00096ed7d93ed26ee6df.js",
-        "leeroya.github.io/app-new/runtime.7b63b9fd40098a2e8207.js",
-        "leeroya.github.io/app-new/styles.09e2c710755c8867a460.css"
+        "/app-new/favicon.ico",
+        "/app-new/index.html",
+        "/app-new/main.d348b660f2785d7d7457.js",
+        "/app-new/manifest.webmanifest",
+        "/app-new/polyfills.00096ed7d93ed26ee6df.js",
+        "/app-new/runtime.7b63b9fd40098a2e8207.js",
+        "/app-new/styles.09e2c710755c8867a460.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "leeroya.github.io/app-new/assets/icons/icon-128x128.png",
-        "leeroya.github.io/app-new/assets/icons/icon-144x144.png",
-        "leeroya.github.io/app-new/assets/icons/icon-152x152.png",
-        "leeroya.github.io/app-new/assets/icons/icon-192x192.png",
-        "leeroya.github.io/app-new/assets/icons/icon-384x384.png",
-        "leeroya.github.io/app-new/assets/icons/icon-512x512.png",
-        "leeroya.github.io/app-new/assets/icons/icon-72x72.png",
-        "leeroya.github.io/app-new/assets/icons/icon-96x96.png"
+        "/app-new/assets/icons/icon-128x128.png",
+        "/app-new/assets/icons/icon-144x144.png",
+        "/app-new/assets/icons/icon-152x152.png",
+        "/app-new/assets/icons/icon-192x192.png",
+        "/app-new/assets/icons/icon-384x384.png",
+        "/app-new/assets/icons/icon-512x512.png",
+        "/app-new/assets/icons/icon-72x72.png",
+        "/app-new/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "leeroya.github.io/app-new/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "leeroya.github.io/app-new/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "leeroya.github.io/app-new/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "leeroya.github.io/app-new/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "leeroya.github.io/app-new/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "leeroya.github.io/app-new/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "leeroya.github.io/app-new/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "leeroya.github.io/app-new/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "leeroya.github.io/app-new/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "leeroya.github.io/app-new/index.html": "97dd1e81e95c6f58049271cbd20fb7b6ae725d5f",
-    "leeroya.github.io/app-new/main.d348b660f2785d7d7457.js": "c15e200d79534def3e313ba32b020b1159f5d113",
-    "leeroya.github.io/app-new/manifest.webmanifest": "683e53dfdcf052beeb9825e2edde38884fed50a7",
-    "leeroya.github.io/app-new/polyfills.00096ed7d93ed26ee6df.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
-    "leeroya.github.io/app-new/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "leeroya.github.io/app-new/styles.09e2c710755c8867a460.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/app-new/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/app-new/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/app-new/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/app-new/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/app-new/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/app-new/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/app-new/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/app-new/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/app-new/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/app-new/index.html": "024ef3b79687eac3f2bbee8e83f9070f814bd980",
+    "/app-new/main.d348b660f2785d7d7457.js": "c15e200d79534def3e313ba32b020b1159f5d113",
+    "/app-new/manifest.webmanifest": "683e53dfdcf052beeb9825e2edde38884fed50a7",
+    "/app-new/polyfills.00096ed7d93ed26ee6df.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
+    "/app-new/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/app-new/styles.09e2c710755c8867a460.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
